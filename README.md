@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning web development and DSA
 - 💞️ I’m looking to collaborate on a project to gain some experience working with other developers.
 
-- 📫 How to reach me https://in.linkedin.com/in/kanahaiya-ojha-72bb06206
+- 📫 How to reach me https://www.linkedin.com/in/kanahaiya-ojha/
 
 <!---
 kanahaiya-ojha/kanahaiya-ojha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
